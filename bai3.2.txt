@@ -1,0 +1,7 @@
+code ban dau 
+const int SO_NGAY_TUAN = 7;
+SO_NGAY_TUAN = 10; // LỖI BIÊN DỊCH: assignment of read-only variable 'SO_NGAY_TUAN'
+cout << SO_NGAY_TUAN;
+da fix
+const int SO_NGAY_TUAN = 7;
+cout << SO_NGAY_TUAN;

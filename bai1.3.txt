@@ -1,0 +1,4 @@
+int 1diem;              // Lỗi: Bắt đầu bằng chữ số
+float ho-ten;           // Lỗi: Chứa dấu '-'
+int class = 10;         // Lỗi: Trùng từ khóa 'class'
+double diem trung binh; // Lỗi: Chứa khoảng trắng
